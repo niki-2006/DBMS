@@ -7,4 +7,4 @@ Topics:
 - DML Commands
 - Joins
 - Aggregate Functions
-- Normalization
+  
