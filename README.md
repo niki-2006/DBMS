@@ -7,4 +7,5 @@ Topics:
 - DML Commands
 - Joins
 - Aggregate Functions
+- Constraints
   
